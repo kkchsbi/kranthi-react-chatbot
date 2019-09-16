@@ -1,11 +1,16 @@
 {
   "name": "kranthi-react-chatbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "React bot for webpage",
   "main": "src/index.js",
-  "scripts": {
-    "start": "nodemon src/index.js localhost 8080"
+  "engines": {
+    "node": "v10.16.0",
+    "npm": "6.9.0"
   },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Kranthi Kumar Ch",
   "dependencies": {
     "express": "4.17.1",
     "git": "0.1.5"
