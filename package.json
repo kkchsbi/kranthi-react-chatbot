@@ -12,7 +12,7 @@
   },
   "author": "Kranthi Kumar Ch",
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.19.2",
     "git": "0.1.5"
   },
   "devDependencies": {
